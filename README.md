@@ -2,19 +2,6 @@
 
 # Conversor de Monedas con API de ExchangeRate-API
 
-## Índice
-1. [Descripción](#-descripción)
-2. [Funcionalidades](#-funcionalidades)  
-3. [Tecnologías](#-tecnologías-utilizadas)
-4. [Requisitos](#-requisitos-del-sistema)
-5. [Instalación](#-instalación)
-6. [Uso](#%EF%B8%8F-uso)
-7. [Estructura](#%EF%B8%8F-estructura-del-código)
-8. [Flujo](#-flujo-de-la-aplicación)
-9. [API](#-api-externa)
-10. [Mejoras](#-posibles-mejoras)
-11. [Desarrollador](#-desarrollador)
-
 ## Descripción
 Aplicación Java CLI para conversión monetaria en tiempo real usando [ExchangeRate-API](https://www.exchangerate-api.com/).
 
